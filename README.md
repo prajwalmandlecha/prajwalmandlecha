@@ -1,29 +1,18 @@
-# Hi, I'm Prajwal Mandlecha
+# yo, prajwal here
 
-Computer Engineering student at PICT Pune, still exploring. I love trying new tech, and I'm interested in the backend and infra side. I primarily work with Go, have used TypeScript and Python, and built apps with React Native.
+**Computer engineering undergrad at PICT Pune. Most of my time goes to the terminal.**
 
-Pinned repos below, rest of the work lives in the repos.
+- building [**Reflex**](https://github.com/prajwalmandlecha/Reflex): a fail-closed governance layer so AI agents don't burn money or leak data
+- shipped 15+ SaaS integrations at **Cequence Security**, reproduced remote MCP tool-call failures on purpose so they'd fail loudly in tests
+- wrote [**tidy**](https://github.com/prajwalmandlecha/tidy): a Go CLI that sorts files by YAML rules, every move undoable, nothing ever lost
+- [**LeetCode**](https://leetcode.com/u/prajwalmandlecha/): 400+ solved, mostly mediums, 100 days badge
+- currently into: AI systems, the backend behind them, and the cloud they run on
 
-## Stack
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-
-## Stats
+`Go` `Python` `TypeScript` `PostgreSQL` `Redis` `Docker` `Kubernetes` `eBPF` `Azure`
 
 [![LeetCode stats](https://leetcard.jacoblin.cool/prajwalmandlecha?theme=dark&ext=contest)](https://leetcode.com/u/prajwalmandlecha/)
 
-## Reach me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prajwalmandlecha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-mandlecha/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/prajwalmandlecha/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prajwalmandlecha@gmail.com)
+<a href="https://github.com/prajwalmandlecha"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/prajwal-mandlecha/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://leetcode.com/u/prajwalmandlecha/"><img src="https://img.shields.io/badge/leetcode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
+<a href="mailto:prajwalmandlecha@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
