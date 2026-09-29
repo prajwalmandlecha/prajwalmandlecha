@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="github stats" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="49%" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalmandlecha/prajwalmandlecha/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwalmandlecha/prajwalmandlecha/output/github-snake.svg" />
