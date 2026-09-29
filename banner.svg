@@ -1,0 +1,24 @@
+<svg width="1280" height="300" viewBox="0 0 1280 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Prajwal Mandlecha">
+  <defs>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#111111" opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <rect x="6" y="6" width="1268" height="288" rx="22" fill="#fbf8ee" stroke="#111111" stroke-width="5"/>
+  <rect x="6" y="6" width="1268" height="288" rx="22" fill="url(#dots)"/>
+
+  <!-- corner tags -->
+  <text x="48" y="64" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#111111">[ PM ]</text>
+  <text x="1232" y="64" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#111111">~/github</text>
+
+  <!-- name -->
+  <text x="640" y="164" text-anchor="middle" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="78" font-weight="900" letter-spacing="2" fill="#111111">PRAJWAL MANDLECHA</text>
+
+  <!-- yellow underline -->
+  <rect x="500" y="186" width="280" height="10" fill="#ffe600" stroke="#111111" stroke-width="3"/>
+
+  <!-- tagline pill -->
+  <rect x="504" y="222" width="272" height="44" rx="10" fill="#fbf8ee" stroke="#111111" stroke-width="3"/>
+  <text x="640" y="251" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="19" font-weight="700" letter-spacing="1" fill="#111111">AI · BACKEND · CLOUD</text>
+</svg>
