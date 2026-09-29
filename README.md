@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/prajwalmandlecha/"><img src="https://leetcard.jacoblin.cool/prajwalmandlecha?theme=dark&ext=contest" alt="LeetCode stats" width="60%" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalmandlecha/prajwalmandlecha/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwalmandlecha/prajwalmandlecha/output/github-snake.svg" />
+    <img alt="github contributions" src="https://raw.githubusercontent.com/prajwalmandlecha/prajwalmandlecha/output/github-snake-dark.svg" width="90%" />
+  </picture>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=120&section=footer)
