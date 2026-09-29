@@ -3,11 +3,6 @@
 `Go` `Python` `TypeScript` `PostgreSQL` `Redis` `Docker` `Kubernetes` `eBPF` `Azure`
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prajwalmandlecha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prajwalmandlecha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=prajwalmandlecha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" width="70%" />
 </p>
 
