@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-results/tokyonight/0-profile-details.svg" alt="profile details" width="32%" />
-  <img src="./profile-summary-card-results/tokyonight/1-repos-per-language.svg" alt="repos per language" width="32%" />
-  <img src="./profile-summary-card-results/tokyonight/2-most-commit-language.svg" alt="most commit language" width="32%" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="32%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="32%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="32%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-results/tokyonight/3-stats.svg" alt="stats" width="32%" />
-  <img src="./profile-summary-card-results/tokyonight/4-productive-time.svg" alt="productive time" width="32%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="32%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="32%" />
   <a href="https://leetcode.com/u/prajwalmandlecha/"><img src="https://leetcard.jacoblin.cool/prajwalmandlecha?theme=dark&ext=contest" alt="LeetCode stats" width="32%" /></a>
 </p>
 
